@@ -12,6 +12,8 @@
 - ⚡️ Fun fact: I have a Spotify playlist with 90+ followers
 
 
+
+
 👔 [linkedin][linkedin] **|** 
 🏡 [blog][blog] **|** 
 🐦 [twitter][twitter] 
