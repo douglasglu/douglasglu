@@ -5,11 +5,11 @@
 #### Recent graduate from the Flatiron School Data Science Bootcamp with a background in finance and a passion for all things FinTech. 
 
 - 🔭 I’m currently transitioning from my previous role as an analyst at J.P. Morgan to a data scientist 
-- 🌱 I’m currently learning SQL and Solidity
-- 👯 I’m looking to collaborate on open source projects relating to Coinbase, Square, and more! 
-- 🤔 I’m looking for help with understanding the nuances of teamwork in tech  
+- 🌱 Learning SQL and Solidity
+- 👯 Looking to collaborate on open source projects in FinTech relating to Coinbase, Square, and more!   
 - 💬 Ask me about transitioning from Wall Street to Sillicon Valley 
-- ⚡ Fun fact: I work best when listening to dystopian sci-fi ambient music  
+- ✨ Ping me about meditation and mental toughness 
+- ⚡️ Fun fact: I work best when listening to dystopian sci-fi ambient music  
 
 
 👔 [linkedin][linkedin] **|** 
