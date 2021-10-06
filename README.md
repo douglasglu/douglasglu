@@ -2,7 +2,7 @@
 
 ### Data Science, Fintech, and Learner! 
 
-#### Recent graduate from the Flatiron School Data Science Bootcamp with a background in finance and a passion for all things FinTech. 
+#### Recent graduate from the Flatiron School Data Science Bootcamp with a background in finance and a passion for all things FinTech 
 
 - 🔭 I’m currently transitioning from my previous role as an analyst at J.P. Morgan to a data scientist 
 - 🌱 Learning SQL and Solidity
