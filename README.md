@@ -7,7 +7,7 @@
 - 🔭 I’m currently transitioning from my previous role as an analyst at J.P. Morgan to a data scientist 
 - 🌱 Learning SQL and Solidity
 - 👯 Looking to collaborate on open source projects in FinTech relating to Coinbase, Square, and more!   
-- 💬 Ask me about transitioning from Wall Street to Sillicon Valley 
+- 💬 Ask me about transitioning from Wall Street to Silicon Valley 
 - ✨ Ping me about meditation and mental toughness 
 - ⚡️ Fun fact: I work best when listening to dystopian sci-fi ambient music  
 
