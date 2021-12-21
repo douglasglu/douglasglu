@@ -9,7 +9,7 @@
 - 👯  Looking to collaborate on open source projects in FinTech relating to Coinbase, Square, and more!   
 - 💬  Ask me about transitioning from Wall Street to Silicon Valley 
 - ✨  Ping me about meditation and mental toughness 
-- ⚡️   Fun fact: I have a Spotify playlist with 90+ followers
+- ⚡️   Fun fact: I have a Spotify playlist with 85+ followers
 
 
 
