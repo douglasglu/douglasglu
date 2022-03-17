@@ -5,7 +5,7 @@
 #### Recent graduate from the Flatiron School Data Science Bootcamp with a background in finance and a passion for all things FinTech 
 
 - 🔭  I’m currently transitioning from my previous role as an analyst at J.P. Morgan to a data scientist 
-- 🌱  Learning SQL and Tableau
+- 🌱  Learning A/B Testing 
 - 👯  Looking to collaborate on open source projects in FinTech relating to Coinbase, Square, and more!   
 - 💬  Ask me about transitioning from Wall Street to Silicon Valley 
 - ✨  Ping me about meditation and mental toughness 
@@ -19,7 +19,7 @@
 🐦 [twitter][twitter] 
 
 [linkedin]: https://www.linkedin.com/in/douglas-lu/
-[blog]: https://douglasglu.com/
+[blog]: https://medium.com/@douglas.g.lu
 [twitter]: https://twitter.com/douglasglu12
 
 <!--
