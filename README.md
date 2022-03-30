@@ -10,6 +10,7 @@
 - 💬  Ask me about transitioning from Wall Street to Silicon Valley 
 - ✨  Ping me about meditation and mental toughness. Feel free to reach out for book recommendations!  
 - ⚡️  Fun fact: I have a Spotify playlist with 85+ followers and I am running the Brooklyn Half-Marathon in April 2022
+- :thumbsup: Current Favorite App/Platform: Dune Analytics - Query, extract, and visualize Ethereum and Polygon blockchain data with PostgreSQL
 
 
 
